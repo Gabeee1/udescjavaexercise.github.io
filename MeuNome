@@ -1,5 +1,4 @@
 
-# arquivos compilados (.class)
 *.class
 public class MyClass {
   public static void main(String args[]) {
